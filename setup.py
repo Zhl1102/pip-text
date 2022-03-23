@@ -14,5 +14,9 @@ setup(
     packages=setuptools.find_packages(exclude=['test', 'examples', 'script', 'tutorials']),  # 包内不需要引用的文件夹
     
     # 依赖包
-    install_requires=[]
+    install_requires=[
+        'numpy',
+        'torchvision',
+        'flask',
+    ]
 )
