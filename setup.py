@@ -5,7 +5,7 @@ from distutils.core import setup
 import setuptools
 
 setup(
-    name='hello_world', # 包的名字
+    name='hello-world', # 包的名字
     version='0.0.1',  # 版本号
     description='project describe',  # 描述
     author='watermelon', # 作者
@@ -18,5 +18,6 @@ setup(
         'numpy',
         'torchvision',
         'flask',
+        'hello-world'
     ]
 )
