@@ -1,7 +1,11 @@
-def hello_world(str1, str2):
-	str = f"{str1} {str2}!"
-	return str.title()
+class Text:
+	def __init__(self, str1, str2):
+		self.str1 = str1
+		self.str2 = str2
 
-str1 = "hello"
-str2 = "world"
-print(hello_world(str1, str2))
+	def hello_world(self):
+		str = f"{self.str1} {self.str2}!"
+		return str.title()
+
+hw = Text("hello", "world")
+print(hw.hello_world())
