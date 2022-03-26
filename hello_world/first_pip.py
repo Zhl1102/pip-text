@@ -1,4 +1,4 @@
-class Text:
+class pipText:
 	def __init__(self, str1, str2):
 		self.str1 = str1
 		self.str2 = str2
@@ -7,5 +7,5 @@ class Text:
 		str = f"{self.str1} {self.str2}!"
 		return str.title()
 
-hw = Text("hello", "world")
-print(hw.hello_world())
+#hw = Text("hello", "world")
+#print(hw.hello_world())

@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: first-pip
+Version: 1.0.1
+Summary: pip text
+Home-page: https://github.com/Zhl1102
+Author: watermelon
+Author-email: 1533938229@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: MacOSIntended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries
+
+UNKNOWN
+

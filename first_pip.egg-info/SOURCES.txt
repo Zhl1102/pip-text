@@ -1,0 +1,10 @@
+README.md
+setup.py
+first_pip.egg-info/PKG-INFO
+first_pip.egg-info/SOURCES.txt
+first_pip.egg-info/dependency_links.txt
+first_pip.egg-info/requires.txt
+first_pip.egg-info/top_level.txt
+first_pip.egg-info/zip-safe
+hello_world/__init__.py
+hello_world/first_pip.py
